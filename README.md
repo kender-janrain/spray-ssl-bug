@@ -21,3 +21,9 @@ The spray client makes an https call to an SSL server which is not responding.
 
 
 - after 5 more seconds (see askTimeout in SpraySslBug.scala), the ask to io will timeout.
+
+## Links ##
+
+https://github.com/spray/spray/issues/785
+
+https://groups.google.com/forum/#!topic/spray-user/LYOCY7cH1BI
